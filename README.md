@@ -3,4 +3,5 @@
 A little more about me..!  
 #
 ..* I'm currently pursuing a Bachelor's in Computer Science at Rajiv Gandhi Institute of Technology
+
 ..* I'm a coding enthuisist and consistently solving problems on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rushikeshphyhut/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user) and [LeetCode](https://leetcode.com/rushikeshphadtare2003/)
