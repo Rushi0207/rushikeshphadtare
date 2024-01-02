@@ -7,3 +7,5 @@
 * I'm working on improving my MERN stack skill and working on [Social-Meadia](https://github.com/Rushi0207/Social-Meadia.git) Project.
 * My Interest lies on AI/ML.
 * I am [SIH-23](https://www.linkedin.com/in/rushikesh-phadtare-76b314248/) finalist.
+* Email me at rushikeshphadtare2003@gmail.com
+* 
